@@ -1,0 +1,36 @@
+BASIC HTML FORMAT 
+<!DOCTYPE html>
+<html>
+<head>
+<title>page title</title>
+</head>
+<body>
+<h1>this heading with bigger font</h1>
+<p>paragraph tag</p>
+<p>this</br> another paragraph</p>
+<img src="img.png" height="500px" width="700px" alt="there was supposed to be an image"
+<strong>bold</strong>
+<big>this text is big</big.
+<hr width="70%">horizontal line
+<a href="file.html">THIS IS LINK</a> 
+to give image link 
+ <a href="file.html"><img src="img.png" height="500px" width="700px" alt="there was supposed to be an image"</a>
+<h2>items to be listem</h2>
+<ol>order list/number
+<li>item1</li>
+<li>item2</li>
+<li>item3</li>
+</ol>
+<h2>this is unordered list</h2>
+<ul>
+
+<li>item1</li>
+<li>item2</li>
+<li>item3</li>
+</ul>
+<div>
+<fotter>this is footer</footer>
+</div>
+
+</body>
+</html>

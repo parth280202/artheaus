@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>my blog</title>
+link rel="stylesheet" type="text/css" href="blog.css"
+
+</head>
+<body>
+ <div class="post">
+<div class="date">OCTOBER 24th,2018</div> 
+<h2>INDIA </h2>
+<p>
+INDIA IS LAND OF MANY CULTURES AND FESTIVALS.IT HAS 3 LARGEST ARMY .
+</p>
+<  a href="india.html><img src="india.png"" alt="india"</a>
+<p>
+INDIA IS BEST
+</p>
+<hr>
+</body>
+</html>
+

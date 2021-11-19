@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>tbale</title>
+<style type="text/css"
+table{ 
+border: 2px solid black;
+}
+td{ 
+border: 1px solid black;
+}
+</style>
+</head>
+<body>
+<table>
+<thead>
+<th>dog owner</th>
+<th>breed</th>
+</thead>
+<tr>
+<td>PARTH</td>
+<td>MOLTESE</td>
+</tr>
+<td>HET</td>
+<td>pug</td>
+
+<tr>
+<td>vedant</td>
+<td>himself</td>
+</tr>
+<tr>
+</tr>
+</table>
+</body>
+</html>

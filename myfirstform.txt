@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>my first form</title>
+</head>
+<body>
+<h1>form1</h1>
+<div id="reg-form">
+<form action="" method="">
+<label form="first-name">first name</label>
+<input type="text" name="first-name" placeholder="arya" required>
+<label form="first-name">last-name</label>
+<input type="text" name="last-name" placeholder="arya" required>
+<div>
+<label for="gender-male">male</label>
+<input type="radio" name="gender-choice" value="choice-1">
+<label for="gender-female">female</label>
+<input type="radio" name="gender-choice" value="choice-1">
+</div>
+<div>
+<label for="email">email</label>
+<input type="radio" name="email" placeholder="xyz@gmail.com">
+<br></br>
+<label for="password">password</label>
+<input type="password" name="password">
+</div>
+<div>
+<label for="MONTH">birthday</label>
+<selec name="month">
+<option value="0" selected disable>month</option>
+<option value="january">january</option>
+<option value="february">february</option>
+<option value="march">march</option>
+<option value="april">april</option>
+<option value="may">may</option>
+<option value="june">june</option>
+<option value="july">july</option>
+<option value="august">august</option>
+<option value="september">september</option>
+<option value="october">october</option>
+<option value="november">november</option>
+<option value="december">december</option>
+</select>
+</div>
+<div>
+<label for="agree">i agree to all conditions </label>
+<input type="checkbox" name="agree">
+</div>
+<div>
+<button type="submit">submit</button>
+</div>
+</body>
+</html>
